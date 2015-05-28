@@ -1,0 +1,17 @@
+site_name: ClusterControl Documentation
+site_url: http://www.severalnines.com
+pages:
+- [index.md, Introduction]
+- [components/controller.md, Components, Controller (CMON)]
+- [components/cmonapi.md, Components, CMONAPI]
+- [components/ccui.md, Components, ClusterControl UI]
+- [requirements.md, Requirements]
+- [quickstart.md, Quick Start]
+- [installation.md, Installation]
+- [user-guide/index.md, User Guide, Introduction]
+- [user-guide/mysql.md, User Guide, MySQL]
+- [user-guide/mysql.md, User Guide, MongoDB]
+- [user-guide/mysql.md, User Guide, PostgreSQL]
+- [administration.md, Administration]
+- [troubleshooting.md, Troubleshooting]
+theme: readthedocs
